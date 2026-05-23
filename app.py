@@ -3,9 +3,9 @@ import streamlit as st
 import streamlit as st
 
 st.set_page_config(
-    page_title="Ex-stream-ly Cool App",
+    page_title="Kuliah Praktisi",
     page_icon="🧊",
-    layout="wide",
+    layout="centered",
     
 )
 st.title("This is a title")
