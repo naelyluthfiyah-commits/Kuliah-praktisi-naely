@@ -6,6 +6,7 @@ st.set_page_config(
     page_title="Kuliah Praktisi",
     page_icon="🧊",
     layout="centered",
+    initial_sidebar_state="expanded",
     
 )
 st.title("This is a title")
